@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<head>
+    <title>Ejercicio de Introduccion a HTML en OpenBootcamp</title>
+</head>
+<body>
+    <!-- Este es mi primer comentario de dos líneas
+
+Aprendiendo a documentar mi código con OpenBootcamp-->
+<div>
+    <h3>Videos Favoritos</h3>
+    <ul> <a href="https://www.youtube.com/watch?v=BdNHcvS0saA&ab_channel=ElCanserbero">Cancion favorita</a></ul>
+    <ul> <a href="https://www.youtube.com/watch?v=Ooo42H8Sh3E&ab_channel=ElCanserbero">Otra buena Cancion</a></ul>
+    <ul> <a href="https://www.youtube.com/watch?v=NA7hk1waODg&ab_channel=ElCanserbero">Buenas letras para escuchar</a></ul>
+</div>
+</body>
+</html>
